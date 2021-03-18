@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "DMSGrpcService";
+
+package dms;
+
+service DMSNodeService {
+	rpc DSMMessage(NetMessage) returns (Null);
+}
+
+message Null{
+}
+
+message NetMessage {
+  int32 MsgType = 1;
+  string MsgContent = 2;
+}
+
+

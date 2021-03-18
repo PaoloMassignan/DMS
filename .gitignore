@@ -3,3 +3,19 @@
 ################################################################################
 
 /.vs
+/src/DMS.Kernel/.vs/DMS.Kernel/v16
+/src/DMS.Kernel/bin/Debug/netstandard2.0
+/src/DMS.Kernel/obj
+/src/DMS.Kernel.Test/bin/Debug/netcoreapp3.1
+/src/DMS.Kernel.Test/obj
+/src/.vs/DMS/v16
+/src/.vs/DMS/DesignTimeBuild
+/src/DMS.Grpc/obj
+/src/DMS.Grpc/bin/Debug/net5.0
+/src/DMS.Kernel/bin/Debug/net5.0
+/src/DMS.Kernel.Test/bin/Debug/net5.0
+/src/DMS.Service/bin/Debug/net5.0
+/src/DMS.Service/obj
+/src/DMS.Test/bin/Debug/net5.0
+/src/DMS.Test/obj
+/src/GrpcService1
